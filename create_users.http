@@ -1,0 +1,127 @@
+# Создание нового пользователя 1
+POST http://localhost:8000/users/
+Content-Type: application/json
+
+{
+  "f_name": "John",
+  "l_name": "Doe",
+  "email": "john.doe@example.com",
+  "password": "secure_password"
+}
+
+###
+
+# Создание нового пользователя 2
+POST http://localhost:8000/users/
+Content-Type: application/json
+
+{
+  "f_name": "Alice",
+  "l_name": "Smith",
+  "email": "alice.smith@example.com",
+  "password": "password123"
+}
+
+###
+
+# Создание нового пользователя 3
+POST http://localhost:8000/users/
+Content-Type: application/json
+
+{
+  "f_name": "Bob",
+  "l_name": "Johnson",
+  "email": "bob.johnson@example.com",
+  "password": "bob1234"
+}
+
+###
+
+# Создание нового пользователя 4
+POST http://localhost:8000/users/
+Content-Type: application/json
+
+{
+  "f_name": "Eve",
+  "l_name": "Wilson",
+  "email": "eve.wilson@example.com",
+  "password": "eve5678"
+}
+
+###
+
+# Создание нового пользователя 5
+POST http://localhost:8000/users/
+Content-Type: application/json
+
+{
+  "f_name": "David",
+  "l_name": "Brown",
+  "email": "david.brown@example.com",
+  "password": "brownie"
+}
+
+###
+
+# Создание нового пользователя 6
+POST http://localhost:8000/users/
+Content-Type: application/json
+
+{
+  "f_name": "Mary",
+  "l_name": "Davis",
+  "email": "mary.davis@example.com",
+  "password": "mary12345"
+}
+
+###
+
+# Создание нового пользователя 7
+POST http://localhost:8000/users/
+Content-Type: application/json
+
+{
+  "f_name": "Chris",
+  "l_name": "Evans",
+  "email": "chris.evans@example.com",
+  "password": "captainamerica"
+}
+
+###
+
+# Создание нового пользователя 8
+POST http://localhost:8000/users/
+Content-Type: application/json
+
+{
+  "f_name": "Emma",
+  "l_name": "Johnson",
+  "email": "emma.johnson@example.com",
+  "password": "emma54321"
+}
+
+###
+
+# Создание нового пользователя 9
+POST http://localhost:8000/users/
+Content-Type: application/json
+
+{
+  "f_name": "Michael",
+  "l_name": "Williams",
+  "email": "michael.williams@example.com",
+  "password": "mike9876"
+}
+
+###
+
+# Создание нового пользователя 10
+POST http://localhost:8000/users/
+Content-Type: application/json
+
+{
+  "f_name": "Sarah",
+  "l_name": "Davis",
+  "email": "sarah.davis@example.com",
+  "password": "sarah123"
+}
