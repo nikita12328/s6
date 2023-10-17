@@ -1,0 +1,117 @@
+# Создание нового продукта 1
+POST http://localhost:8000/products/
+Content-Type: application/json
+
+{
+  "name": "Product 1",
+  "description": "Description of Product 1",
+  "price": 19.99
+}
+
+###
+
+# Создание нового продукта 2
+POST http://localhost:8000/products/
+Content-Type: application/json
+
+{
+  "name": "Product 2",
+  "description": "Description of Product 2",
+  "price": 29.99
+}
+
+###
+
+# Создание нового продукта 3
+POST http://localhost:8000/products/
+Content-Type: application/json
+
+{
+  "name": "Product 3",
+  "description": "Description of Product 3",
+  "price": 39.99
+}
+
+###
+
+# Создание нового продукта 4
+POST http://localhost:8000/products/
+Content-Type: application/json
+
+{
+  "name": "Product 4",
+  "description": "Description of Product 4",
+  "price": 49.99
+}
+
+###
+
+# Создание нового продукта 5
+POST http://localhost:8000/products/
+Content-Type: application/json
+
+{
+  "name": "Product 5",
+  "description": "Description of Product 5",
+  "price": 59.99
+}
+
+###
+
+# Создание нового продукта 6
+POST http://localhost:8000/products/
+Content-Type: application/json
+
+{
+  "name": "Product 6",
+  "description": "Description of Product 6",
+  "price": 69.99
+}
+
+###
+
+# Создание нового продукта 7
+POST http://localhost:8000/products/
+Content-Type: application/json
+
+{
+  "name": "Product 7",
+  "description": "Description of Product 7",
+  "price": 79.99
+}
+
+###
+
+# Создание нового продукта 8
+POST http://localhost:8000/products/
+Content-Type: application/json
+
+{
+  "name": "Product 8",
+  "description": "Description of Product 8",
+  "price": 89.99
+}
+
+###
+
+# Создание нового продукта 9
+POST http://localhost:8000/products/
+Content-Type: application/json
+
+{
+  "name": "Product 9",
+  "description": "Description of Product 9",
+  "price": 99.99
+}
+
+###
+
+# Создание нового продукта 10
+POST http://localhost:8000/products/
+Content-Type: application/json
+
+{
+  "name": "Product 10",
+  "description": "Description of Product 10",
+  "price": 109.99
+}
