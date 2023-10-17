@@ -1,0 +1,8 @@
+### Получение всех пользователей
+GET http://localhost:8000/users/
+
+### Получение всех продуктов
+GET http://localhost:8000/products/
+
+### Получение всех заказов
+GET http://localhost:8000/orders/
